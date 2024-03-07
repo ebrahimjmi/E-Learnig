@@ -21,6 +21,13 @@ a {
   text-decoration: none !important;
   color: #000 !important; }
 
+body {
+  font-family: sans-serif;
+  line-height: 1.5; }
+
+p {
+  font-size: 18px !important; }
+
 .learning-box {
   max-width: 600px;
   margin: 0 auto; }
